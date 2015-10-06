@@ -16,7 +16,7 @@ var quotes = [
   { author : 'Neale Donald Walsch',   text : "You are afraid to die, and you're afraid to live. What a way to exist."},
   { author : 'Dr. Seuss',             text : "Be who you are and say what you feel because those who mind don't matter and those who matter don't mind."},
   { author : 'Lou Holtz',             text : "Never tell your problems to anyone...20% don't care and the other 80% are glad you have them."},
-  { author : 'Unknown Author',        text : "When life gives you a hundred reasons to cry, show life that you have a thousand reasons to smile."},
+  { author : 'UnknownAuthor',        text : "When life gives you a hundred reasons to cry, show life that you have a thousand reasons to smile."},
   { author : 'Shing Xiong',           text : "In the end, it's not going to matter how many breaths you took, but how many moments took your breath away"},
   { author : 'Margaret Mead',         text : "Always remember that you are absolutely unique. Just like everyone else."},
   { author : 'Oscar Wilde',           text : "Be yourself; everyone else is already taken."}
